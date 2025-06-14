@@ -194,7 +194,7 @@ export default function Home() {
         {/* Welcome Text */}
         <div className="text-center mb-6">
           <div className="text-gray-400 text-sm">Welcome Michael!</div>
-          <div className="text-2xl font-bold mt-2">It's Time to<br/>Organize your Day!</div>
+          <div className="text-2xl font-bold mt-2">It&apos;s Time to<br/>Organize your Day!</div>
         </div>
         {/* Avatar */}
        
